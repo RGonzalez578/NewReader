@@ -57,6 +57,9 @@ dependencies:
   # Cache images
   cached_network_image: ^3.2.0
 
+  # Layer to manage Data
+  dio: ^4.0.6
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
