@@ -8,7 +8,6 @@ class ArticleRepositoryImpl implements ArticleRepository {
     should retrieve a List of ArticleModel instead of ArticleEntity
   */
   Future<DataState<List<ArticleModel>>> getNewsArticles() {
-    // TODO: implement getNewsArticles
     throw UnimplementedError();
   }
 }

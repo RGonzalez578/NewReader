@@ -1,1 +1,1 @@
-const String newsAPIBaseURL = '';
+const String newsAPIBaseURL = 'https://newsapi.org/v2';
